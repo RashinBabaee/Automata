@@ -1,0 +1,4 @@
+src\cellular\CellularAutomata.java:199: warning: [this-escape] possible 'this' escape before subclass is fully initialized
+		comboBox2.setOnAction(s -> {
+		                      ^
+1 warning
